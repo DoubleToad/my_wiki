@@ -23,7 +23,6 @@ grant all privileges on database testweb to testwebuser;
 
 ---
 
-> **Это уже есть в проекте. В этом блоке описано как оно создавалось**
 
 ## Virtual Environment
 ```
